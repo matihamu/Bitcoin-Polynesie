@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UF8"/>
+		<title>Le Bitcoin-Polynésie 1</title>
+		<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css"/>
+</html>
